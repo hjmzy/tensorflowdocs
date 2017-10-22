@@ -1,0 +1,20 @@
+<!-- DO NOT EDIT! Automatically generated file. -->
+# Asserts and boolean checks
+
+*   [`tf.assert_negative`](../../api_docs/python/tf/assert_negative.md)
+*   [`tf.assert_positive`](../../api_docs/python/tf/assert_positive.md)
+*   [`tf.assert_proper_iterable`](../../api_docs/python/tf/assert_proper_iterable.md)
+*   [`tf.assert_non_negative`](../../api_docs/python/tf/assert_non_negative.md)
+*   [`tf.assert_non_positive`](../../api_docs/python/tf/assert_non_positive.md)
+*   [`tf.assert_equal`](../../api_docs/python/tf/assert_equal.md)
+*   [`tf.assert_integer`](../../api_docs/python/tf/assert_integer.md)
+*   [`tf.assert_less`](../../api_docs/python/tf/assert_less.md)
+*   [`tf.assert_less_equal`](../../api_docs/python/tf/assert_less_equal.md)
+*   [`tf.assert_greater`](../../api_docs/python/tf/assert_greater.md)
+*   [`tf.assert_greater_equal`](../../api_docs/python/tf/assert_greater_equal.md)
+*   [`tf.assert_rank`](../../api_docs/python/tf/assert_rank.md)
+*   [`tf.assert_rank_at_least`](../../api_docs/python/tf/assert_rank_at_least.md)
+*   [`tf.assert_type`](../../api_docs/python/tf/assert_type.md)
+*   [`tf.is_non_decreasing`](../../api_docs/python/tf/is_non_decreasing.md)
+*   [`tf.is_numeric_tensor`](../../api_docs/python/tf/is_numeric_tensor.md)
+*   [`tf.is_strictly_increasing`](../../api_docs/python/tf/is_strictly_increasing.md)

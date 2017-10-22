@@ -1,0 +1,16 @@
+<!-- DO NOT EDIT! Automatically generated file. -->
+# Deploy
+
+This section focuses on deploying real-world models.  It contains
+the following documents:
+
+  * [Distributed TensorFlow](../deploy/distributed.md), which explains how to create
+    a cluster of TensorFlow servers.
+  * [How to run TensorFlow on Hadoop](../deploy/hadoop.md), which has a highly
+    self-explanatory title.
+  * The entire document set for [TensorFlow serving](/serving), an open-source,
+    flexible, high-performance serving system for machine-learned models
+    designed for production environments. TensorFlow Serving provides
+    out-of-the-box integration with TensorFlow models.
+    [Source code for TensorFlow Serving](https://github.com/tensorflow/serving)
+    is available on Github.
